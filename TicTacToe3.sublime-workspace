@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"section",
+				"sectionClicked"
+			],
+			[
+				"se",
+				"sectionClicked"
+			],
+			[
+				"can",
+				"canvasSize"
+			],
+			[
+				"canva",
+				"canvasSize"
+			],
+			[
+				"sto",
+				"strokeStyle"
+			],
+			[
+				"first",
+				"firstPlayer"
+			],
+			[
+				"boar",
+				"boardArray"
+			],
+			[
+				"canvas",
+				"canvas2"
+			],
+			[
+				"rot",
+				"rotation"
+			],
+			[
+				"rotate",
+				"rotateLine"
+			],
+			[
+				"c",
+				"contenteditable	Attr"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Index.html",
+			"settings":
+			{
+				"buffer_size": 3574,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Scripts/TicTacToe.js",
+			"settings":
+			{
+				"buffer_size": 8982,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Content/Styles.css",
+			"settings":
+			{
+				"buffer_size": 396,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 82.0,
+		"last_filter": "Package Control: install package",
+		"selected_items":
+		[
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insall package",
+				"Package Control: Install Package"
+			],
+			[
+				"github",
+				"Github: Repository"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: if",
+				"Snippet: if"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Temp/TicTacToe3",
+		"/C/Temp/TicTacToe3/Content",
+		"/C/Temp/TicTacToe3/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/Joey Fox/AppData/Roaming/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+		"/C/Temp/TicTacToe3/Scripts/TicTacToe.js",
+		"/C/Temp/TicTacToe3/Index.html",
+		"/C/Temp/TicTacToe3/Content/Styles.css",
+		"/C/Temp/Paper1/Index.html",
+		"/C/Temp/TicTacToe2/Index.html",
+		"/C/Temp/TicTacToe2/Content/styles.css",
+		"/C/Temp/TicTacToe2/Scripts/testjs.js",
+		"/C/Temp/Game1/test.html",
+		"/C/Temp/Game1/Index.html",
+		"/C/Temp/Game1/testZen1.html",
+		"/C/Temp/Game1/scripts/testjs.js",
+		"/C/Temp/Game1/css/styles.css",
+		"/C/Users/Joey Fox/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Joey Fox/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Joey Fox/AppData/Roaming/Sublime Text 3/Packages/User/mysnip.sublime-snippet",
+		"/C/Temp/Game1/Game1.sublime-project",
+		"/C/Users/Joey Fox/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Joey Fox/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Temp/Game1/styles.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"C:\\Temp\\Game1",
+			"*.txt"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sectionClicked",
+			"lineColor",
+			"drawLines",
+			"game engine",
+			"footer",
+			"p",
+			"\n						",
+			"joey",
+			"page-content-wrapper",
+			"background",
+			"margin",
+			"div",
+			"body",
+			"div",
+			"footer",
+			"navbar",
+			"class",
+			"		<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"class"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3574,
+								3574
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 63.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Scripts/TicTacToe.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1116,
+								1116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 633.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Content/Styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TicTacToe3.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

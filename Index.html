@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tic Tac Toe on Canvas</title>
+	<link href="Content/Styles.css" rel="stylesheet">
+    <link href="Content/bootstrap.css" rel="stylesheet"> 
+    <script src="Scripts/jquery-2.2.3.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+	<script src="Scripts/tictactoe.js"></script>
+</head>
+<body>
+
+</body>
+</html>
+<div class="center-wrapper-parent">
+  <div class="canvas-wrapper">
+    <canvas id="tic-tac-toe-board" class="center-v"></canvas>
+    <div>
+		<label id="first-player-label" class="align-middle" for="first-player">Choose First Player</label>
+		<select class="form-control align-middle" id="first-player">
+			<option value="x">X</option>
+			<option value="o">O</option>
+		</select>
+	    <button id="reset-game" class="btn btn-primary align-middle">New Game</button>
+	    <p class="align-middle" id="game-winner"></p>
+  </div>
+</div>
+
+<div class="modal fade" id="noMoveModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="vertical-alignment-helper">
+        <div class="modal-dialog vertical-align-center">
+            <div class="modal-content panel-warning">
+                <div class="modal-header panel-heading modal-header-warning">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">Box already taken!</h4>
+                </div>
+                <div class="modal-body">
+                    <p>You must choose another box, this one is already taken.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="winnerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="vertical-alignment-helper">
+        <div class="modal-dialog vertical-align-center">
+            <div class="modal-content panel-warning">
+                <div class="modal-header panel-heading modal-header-warning">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">You Won!</h4>
+                </div>
+                <div class="modal-body">
+                    <p id="winner-text"></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="itsaDawModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="vertical-alignment-helper">
+        <div class="modal-dialog vertical-align-center">
+            <div class="modal-content panel-warning">
+                <div class="modal-header panel-heading modal-header-warning">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">Its a draw!</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Too bad! It's a draw...</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
